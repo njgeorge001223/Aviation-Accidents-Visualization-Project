@@ -86,7 +86,7 @@ The overall arc of this chart is one of the most compelling data stories in the 
 
 ## **Flight Phase Analysis**
 
-<img width="404" alt="image" src="https://github.com/njgeorge000158/Aviation-Accidents-Visualization-Project/assets/137228821/40821864-b1c8-4af3-ba87-73dc3aed0e54">
+<img width="623" alt="image" src="https://github.com/njgeorge000158/Aviation-Accidents-Visualization-Project/assets/137228821/c304e4ad-a0b3-4dad-b50d-1521ff48f053">
 
 The Fatalities per Flight Phase pie chart (1970–2022, filtered to accidents with more than 10 fatalities) provides a definitive breakdown of when during a flight fatal accidents are most likely to occur. En route (ENR) accounts for 45.6% of fatalities — nearly half the total — confirming that the cruising phase, despite being statistically the safest per-minute period, produces the most fatalities in absolute terms simply because it encompasses the longest portion of any flight and because catastrophic structural failures, weather encounters, and deliberate acts during this phase leave little opportunity for survival. Approach (APR) accounts for 35.4%, reflecting the well-documented dangers of the descent and final approach phases: controlled flight into terrain, instrument approach errors, and runway environment confusion are among aviation's most persistent fatal accident categories.
 
