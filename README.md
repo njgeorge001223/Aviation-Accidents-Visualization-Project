@@ -96,7 +96,7 @@ Together, en route and approach account for over 81% of all fatalities in the da
 
 ## **Aircraft Type Analysis**
 
-<img width="506" alt="image" src="https://github.com/njgeorge000158/Aviation-Accidents-Visualization-Project/assets/137228821/a99ffbe9-7e5e-4052-9b90-c22ca7ac582c">
+<img width="404" alt="image" src="https://github.com/njgeorge000158/Aviation-Accidents-Visualization-Project/assets/137228821/40821864-b1c8-4af3-ba87-73dc3aed0e54">
 
 The Fatalities per Aircraft Type chart (1970–2022, filtered to types with more than 100 fatalities) identifies the aircraft designs most associated with fatal outcomes across the 52-year record. The Tupolev TU-154 leads with approximately 487 fatalities — the highest of any aircraft type in the dataset. A Soviet-era narrow-body trijet that entered service in 1972 and remained in operation well into the 2010s, the TU-154 accumulated its fatality record across decades of operation under Soviet, Russian, and Eastern Bloc carriers in an environment where maintenance standards, crew training, and air traffic control infrastructure were substantially below Western norms. The Lockheed L-1011 TriStar follows with approximately 437 fatalities, and the Boeing 727 with approximately 389 — both legacy wide-bodies and narrow-bodies of 1960s and 1970s vintage whose accident records reflect the lower safety standards of that era rather than any inherent design deficiency relative to their contemporaries.
 
