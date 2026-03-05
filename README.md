@@ -108,7 +108,7 @@ The implications of this chart require careful interpretation. Raw fatality coun
 
 ## **Nature of Flight Analysis**
 
-<img width="404" alt="image" src="https://github.com/njgeorge000158/Aviation-Accidents-Visualization-Project/assets/137228821/68cd9132-4722-4b22-82f0-64780efb5a87">
+<img width="720" alt="image" src="https://github.com/njgeorge000158/Aviation-Accidents-Visualization-Project/assets/137228821/9d4720a7-4462-48b0-a4e8-32fc00491566">
 
 The Fatalities per Nature of Flight pie chart (1970–2022, filtered to categories with more than 100 fatalities) reveals that domestic scheduled passenger service accounts for 53.0% of all fatalities in the dataset — the dominant category by a substantial margin. International scheduled passenger service contributes 31.3%, and domestic non-scheduled passenger flights add 8.4%, while international non-scheduled passenger operations account for 7.2%.
 
